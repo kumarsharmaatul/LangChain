@@ -1,0 +1,19 @@
+# API Keys aur Secrets
+.env
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+#vevn
+langchain/
+
+pyvenv.cfg
